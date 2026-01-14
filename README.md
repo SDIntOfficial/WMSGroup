@@ -1,2 +1,0 @@
-# WMSGroup
-Innovator Internet Technology.
